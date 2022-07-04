@@ -1,0 +1,25 @@
+{
+  "name": "trying-appium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmanserdana/trying-appium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmanserdana/trying-appium/issues"
+  },
+  "homepage": "https://github.com/firmanserdana/trying-appium#readme",
+  "dependencies": {
+    "appium": "^1.22.3",
+    "appium-doctor": "^1.16.0",
+    "webdriverio": "^7.20.5"
+  }
+}
